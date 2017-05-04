@@ -1,0 +1,31 @@
+<resources>
+	<string id="AppName">Bike6Data</string>
+
+	<bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+	<!--
+	<layout id="MainLayout" background="Gfx.COLOR_WHITE">
+		<drawable id="MainBackground" />
+
+		<label text="HR" x="1" y="90" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> <label text="DST" x="1" y="109" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> <label text="CAD" x="190" y="90" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> <label text="SPD" x="190" y="109" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> <label text="TIME" x="92" y="0" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> <label text="DURA" x="95" y="198" font="Gfx.FONT_XTINY" color="Gfx.COLOR_BLACK" 
+			/> 
+	</layout>
+
+	<drawable-list id="MainBackground" background="Gfx.COLOR_WHITE">
+		<shape type="rectangle" x="-1" y="-1" width="220" height="220"
+			color="Gfx.COLOR_WHITE" />
+		<shape type="rectangle" x="0" y="54" width="218" height="2"
+			color="Gfx.COLOR_BLACK" />
+		<shape type="rectangle" x="0" y="109" width="218" height="2"
+			color="Gfx.COLOR_BLACK" />
+		<shape type="rectangle" x="0" y="164" width="218" height="2"
+			color="Gfx.COLOR_BLACK" />
+		<shape type="rectangle" x="109" y="54" width="2" height="110"
+			color="Gfx.COLOR_BLACK" />
+	</drawable-list>
+	-->
+</resources>

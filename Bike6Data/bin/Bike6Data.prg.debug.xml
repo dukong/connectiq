@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="23" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="25" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="26" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="27" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="28" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="29" pc="268435632" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="30" pc="268435675" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="33" pc="268435719" symbol="onLayout"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="37" pc="268435724" symbol="onShow"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="40" pc="268435729" symbol="onHide"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="43" pc="268435734" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="44" pc="268435738" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="45" pc="268435805" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="47" pc="268435872" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="48" pc="268435939" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="50" pc="268436006" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="51" pc="268436073" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="54" pc="268436141" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="55" pc="268436145" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="56" pc="268436199" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="58" pc="268436253" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="59" pc="268436307" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="61" pc="268436361" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="62" pc="268436415" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="65" pc="268436470" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="66" pc="268436474" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="67" pc="268436491" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="68" pc="268436523" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="69" pc="268436555" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="70" pc="268436587" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="73" pc="268436620" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="75" pc="268436624" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="76" pc="268436660" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="77" pc="268436674" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="78" pc="268436688" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="81" pc="268436703" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="82" pc="268436707" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="84" pc="268436724" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="87" pc="268436792" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="88" pc="268436796" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="89" pc="268436803" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="90" pc="268436813" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="91" pc="268436823" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="92" pc="268436839" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="93" pc="268436849" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="95" pc="268436901" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="99" pc="268436908" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="100" pc="268436912" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="101" pc="268436931" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="103" pc="268436958" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="104" pc="268436971" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="107" pc="268436996" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="108" pc="268437009" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="111" pc="268437034" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="112" pc="268437047" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="113" pc="268437069" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="114" pc="268437086" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="116" pc="268437119" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="120" pc="268437152" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="121" pc="268437165" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="122" pc="268437187" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="123" pc="268437204" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataField.mc" lineNum="125" pc="268437237" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataApp.mc" lineNum="5" pc="268437271" symbol="getInitialView"/>
+<entry filename="/Users/mulin/workdisk/garmin/Bike6Data/source/Bike6DataApp.mc" lineNum="6" pc="268437275" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="24" symbol="cad"/>
+<entry id="8388644" symbol="System"/>
+<entry field="true" id="16" symbol="str_time"/>
+<entry id="33" method="true" symbol="drawLabel"/>
+<entry field="true" id="28" symbol="lb_dst"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="20" symbol="dura"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="32" method="true" symbol="drawData"/>
+<entry field="true" id="31" symbol="do_update"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" symbol="Graphics"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" symbol="Gregorian"/>
+<entry id="36" method="true" symbol="fmt_dura"/>
+<entry field="true" id="17" symbol="str_spd"/>
+<entry id="9" object="true" symbol="Bike6DataApp"/>
+<entry field="true" id="30" symbol="lb_dura"/>
+<entry field="true" id="27" symbol="lb_spd"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="25" symbol="lb_hr"/>
+<entry field="true" id="14" symbol="str_dura"/>
+<entry field="true" id="15" symbol="str_hr"/>
+<entry field="true" id="18" symbol="str_cad"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="8388719" symbol="dst"/>
+<entry field="true" id="26" symbol="lb_cad"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="21" symbol="time"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="34" method="true" symbol="drawGrid"/>
+<entry field="true" id="22" symbol="spd"/>
+<entry id="8" object="true" symbol="Bike6DataField"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="35" method="true" symbol="fmt_time"/>
+<entry field="true" id="23" symbol="hr"/>
+<entry field="true" id="29" symbol="lb_time"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="19" symbol="str_dst"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436791" name="now" stackId="1" startPc="268436707"/>
+<entry endPc="268436898" name="hour" stackId="3" startPc="268436803"/>
+<entry endPc="268436898" name="min" stackId="4" startPc="268436803"/>
+<entry endPc="268436898" name="sec" stackId="5" startPc="268436803"/>
+<entry endPc="268436898" name="seconds" stackId="2" startPc="268436803"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Bike6DataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="Bike6DataField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="Bike6DataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="Bike6DataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawData" parent="Bike6DataField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawLabel" parent="Bike6DataField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawGrid" parent="Bike6DataField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Bike6DataField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_time" parent="Bike6DataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_dura" parent="Bike6DataField">
+<param id="elapsedTime"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="Bike6DataField">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="Bike6DataApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

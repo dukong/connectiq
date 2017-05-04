@@ -1,0 +1,14 @@
+<resources>	
+	<string id="str_hr">HR</string>
+	<string id="str_avg_hr">HR</string>
+	
+	<string id="str_cad">CAD</string>
+	<string id="str_avg_cad">CAD</string>
+	
+	<string id="str_spd">SPD</string>
+	<string id="str_avg_spd">SPD</string>
+	
+	<string id="str_dst">DIST</string>
+	<string id="str_time">TIME</string>
+	<string id="str_dura">TIMER</string>
+</resources>

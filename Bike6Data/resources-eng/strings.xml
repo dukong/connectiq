@@ -1,0 +1,8 @@
+<resources>
+	<string id="str_hr">HR</string>
+	<string id="str_cad">CAD</string>
+	<string id="str_spd">SPD</string>
+	<string id="str_dst">DST</string>
+	<string id="str_time">TIME</string>
+	<string id="str_dura">DURA</string>
+</resources>

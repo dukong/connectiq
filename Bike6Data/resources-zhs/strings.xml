@@ -1,0 +1,8 @@
+<resources>
+	<string id="str_hr">心率</string>
+	<string id="str_cad">踏频</string>
+	<string id="str_spd">速度</string>
+	<string id="str_dst">距离</string>
+	<string id="str_time">时间</string>
+	<string id="str_dura">耗时</string>
+</resources>
