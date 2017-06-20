@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="33" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="34" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="36" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="37" pc="268435521" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="38" pc="268435564" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="39" pc="268435607" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="40" pc="268435650" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="41" pc="268435693" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="42" pc="268435736" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="43" pc="268435779" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="44" pc="268435822" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="45" pc="268435865" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="49" pc="268435909" symbol="onLayout"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="50" pc="268435913" symbol="onLayout"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="53" pc="268435917" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="54" pc="268435921" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="56" pc="268435940" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="59" pc="268436008" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="60" pc="268436012" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="61" pc="268436019" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="62" pc="268436029" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="63" pc="268436039" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="64" pc="268436055" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="65" pc="268436065" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="67" pc="268436117" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="71" pc="268436124" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="73" pc="268436128" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="74" pc="268436147" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="76" pc="268436174" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="77" pc="268436187" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="80" pc="268436220" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="81" pc="268436247" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="84" pc="268436280" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="85" pc="268436307" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="88" pc="268436340" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="89" pc="268436351" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="90" pc="268436364" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="94" pc="268436392" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="95" pc="268436405" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="98" pc="268436430" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="99" pc="268436443" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="102" pc="268436468" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="103" pc="268436481" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="104" pc="268436503" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="105" pc="268436520" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="107" pc="268436553" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="111" pc="268436586" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="112" pc="268436599" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="113" pc="268436621" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="114" pc="268436638" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="116" pc="268436671" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="121" pc="268436705" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="122" pc="268436709" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="123" pc="268436782" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="125" pc="268436855" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="126" pc="268436928" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="128" pc="268437001" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="129" pc="268437074" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="131" pc="268437147" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="132" pc="268437220" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="134" pc="268437293" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="135" pc="268437366" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="138" pc="268437440" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="139" pc="268437444" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="140" pc="268437502" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="142" pc="268437560" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="143" pc="268437618" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="145" pc="268437676" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="146" pc="268437734" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="148" pc="268437792" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="149" pc="268437850" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="151" pc="268437908" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="152" pc="268437966" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="155" pc="268438025" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="156" pc="268438029" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="157" pc="268438046" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="158" pc="268438078" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="159" pc="268438110" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="160" pc="268438142" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="161" pc="268438174" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="164" pc="268438207" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="165" pc="268438211" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="167" pc="268438251" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="168" pc="268438265" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOView.mc" lineNum="169" pc="268438279" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="9" pc="268438294" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="10" pc="268438298" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="14" pc="268438319" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="17" pc="268438340" symbol="setColor"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="18" pc="268438344" symbol="setColor"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="21" pc="268438355" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="22" pc="268438359" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOBackground.mc" lineNum="23" pc="268438391" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="5" pc="268438404" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="6" pc="268438408" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="10" pc="268438427" symbol="onStart"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="14" pc="268438432" symbol="onStop"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="18" pc="268438437" symbol="getInitialView"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeAIO/source/EdgeAIOApp.mc" lineNum="19" pc="268438441" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="29" pc="268438479" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438483" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268438507" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268438670" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268438695" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268438747" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268438793" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268438956" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268438981" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268439033" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268439079" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268439117" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="53" pc="268439121" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="54" pc="268439145" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="55" pc="268439278" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="58" pc="268439411" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="67" pc="268439449" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="69" pc="268439453" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="70" pc="268439477" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="71" pc="268439610" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="74" pc="268439743" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="83" pc="268439781" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="85" pc="268439785" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="86" pc="268439809" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="87" pc="268439942" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="90" pc="268440075" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="99" pc="268440113" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="101" pc="268440117" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="102" pc="268440141" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="103" pc="268440274" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="106" pc="268440407" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="37" symbol="cad"/>
+<entry field="true" id="40" symbol="effect"/>
+<entry field="true" id="23" symbol="str_time"/>
+<entry id="55" method="true" symbol="drawLabel"/>
+<entry field="true" id="46" symbol="lb_dst"/>
+<entry field="true" id="42" symbol="lb_alt"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="31" symbol="dura"/>
+<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="54" method="true" symbol="drawData"/>
+<entry field="true" id="43" symbol="lb_tem"/>
+<entry field="true" id="24" symbol="str_pwr"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="17" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="47" symbol="lb_pwr"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="39" symbol="ascent"/>
+<entry id="53" method="true" symbol="fmt_dura"/>
+<entry field="true" id="27" symbol="str_spd"/>
+<entry id="8388745" symbol="totalAscent"/>
+<entry id="8389130" symbol="mColor"/>
+<entry field="true" id="49" symbol="lb_dura"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="30" symbol="mValue"/>
+<entry field="true" id="45" symbol="lb_spd"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry field="true" id="41" symbol="lb_hr"/>
+<entry field="true" id="20" symbol="str_dura"/>
+<entry field="true" id="22" symbol="str_hr"/>
+<entry field="true" id="51" symbol="lb_effect"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="28" symbol="str_cad"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="8388719" symbol="dst"/>
+<entry field="true" id="33" symbol="alt"/>
+<entry field="true" id="44" symbol="lb_cad"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8" object="true" symbol="EdgeAIOView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="16" method="true" symbol="TopRightLayout"/>
+<entry id="8388747" symbol="currentHeartRate"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="34" symbol="tem"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="50" symbol="lb_ascent"/>
+<entry field="true" id="21" symbol="str_ascent"/>
+<entry field="true" id="38" symbol="pwr"/>
+<entry field="true" id="32" symbol="time"/>
+<entry field="true" id="19" symbol="str_effect"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry id="8389651" symbol="trainingEffect"/>
+<entry id="56" method="true" symbol="drawGrid"/>
+<entry field="true" id="35" symbol="spd"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="52" method="true" symbol="fmt_time"/>
+<entry id="10" object="true" symbol="EdgeAIOApp"/>
+<entry field="true" id="36" symbol="hr"/>
+<entry field="true" id="48" symbol="lb_time"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="29" symbol="str_dst"/>
+<entry field="true" id="25" symbol="str_alt"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436007" name="now" stackId="1" startPc="268435921"/>
+<entry endPc="268436114" name="hour" stackId="3" startPc="268436019"/>
+<entry endPc="268436114" name="min" stackId="4" startPc="268436019"/>
+<entry endPc="268436114" name="sec" stackId="5" startPc="268436019"/>
+<entry endPc="268436114" name="seconds" stackId="2" startPc="268436019"/>
+<entry endPc="268438339" name="dictionary" stackId="1" startPc="268438298"/>
+<entry endPc="268439116" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438483"/>
+<entry endPc="268439116" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268438483"/>
+<entry endPc="268439116" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268438483"/>
+<entry endPc="268439116" name="rez_cmp_local_custom_drawable_R96LFG39CUFGN8HSQ4C9" stackId="2" startPc="268438483"/>
+<entry endPc="268439116" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268438483"/>
+<entry endPc="268439448" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439121"/>
+<entry endPc="268439448" name="rez_cmp_local_custom_drawable_11MJBPA5T3FDWRF6EWUH" stackId="2" startPc="268439121"/>
+<entry endPc="268439448" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439121"/>
+<entry endPc="268439780" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439453"/>
+<entry endPc="268439780" name="rez_cmp_local_custom_drawable_ESHDWZKP0N3HC2GFZRKO" stackId="2" startPc="268439453"/>
+<entry endPc="268439780" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439453"/>
+<entry endPc="268440112" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439785"/>
+<entry endPc="268440112" name="rez_cmp_local_custom_drawable_MSM9WIY6WGXJBE51TWAR" stackId="2" startPc="268439785"/>
+<entry endPc="268440112" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439785"/>
+<entry endPc="268440444" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268440117"/>
+<entry endPc="268440444" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268440117"/>
+<entry endPc="268440444" name="rez_cmp_local_custom_drawable_4LEJJTY2X0YL0HSX1EHX" stackId="2" startPc="268440117"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="EdgeAIOView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="EdgeAIOView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_time" parent="EdgeAIOView">
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_dura" parent="EdgeAIOView">
+<param id="elapsedTime"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="EdgeAIOView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawData" parent="EdgeAIOView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawLabel" parent="EdgeAIOView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawGrid" parent="EdgeAIOView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="EdgeAIOView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="EdgeAIOApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="EdgeAIOApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="EdgeAIOApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="EdgeAIOApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
