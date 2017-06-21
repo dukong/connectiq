@@ -17,6 +17,8 @@ class EdgeAIOView extends Ui.DataField {
 	var ascent = "---";
 	var effect = "---";
 	
+	var timerState = 0;
+	
 	var lb_hr;
 	var lb_alt;
 	var lb_tem;
@@ -29,7 +31,6 @@ class EdgeAIOView extends Ui.DataField {
 	var lb_ascent;
 	var lb_effect;
 	
-
     function initialize() {
         DataField.initialize();
                 
@@ -46,7 +47,7 @@ class EdgeAIOView extends Ui.DataField {
     }
 
 
-    function onLayout(dc) {       
+    function onLayout(dc) {
         return true;
     }
     
@@ -71,7 +72,10 @@ class EdgeAIOView extends Ui.DataField {
     function compute(info) {
     
     	time = fmt_time();
-    	dura = fmt_dura(info.elapsedTime);
+    	//dura = fmt_dura(info.elapsedTime);
+    	dura = fmt_dura(info.timerTime);
+    	
+    	timerState = info.timerState;
     	
     	if (info.altitude != null) {
     		alt = info.altitude.format("%d");
@@ -81,7 +85,7 @@ class EdgeAIOView extends Ui.DataField {
     		ascent = info.totalAscent.format("%d");
     	}
     	
-    	if (info has :trainingEffect && info.trainingEffect != null) {
+    	if (info.trainingEffect != null) {
     		effect = info.trainingEffect.format("%.1f");
     	}
     	
@@ -123,29 +127,28 @@ class EdgeAIOView extends Ui.DataField {
 		dc.drawText(150, 35, Graphics.FONT_NUMBER_MEDIUM, hr, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 		
 		dc.drawText(51, 95, Graphics.FONT_NUMBER_MEDIUM, spd, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-		dc.drawText(151, 95, Graphics.FONT_NUMBER_MEDIUM, pwr, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+		dc.drawText(151, 95, Graphics.FONT_NUMBER_MEDIUM, dst, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 		
-		dc.drawText(51, 153, Graphics.FONT_NUMBER_MEDIUM, alt, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-		dc.drawText(151, 153, Graphics.FONT_NUMBER_MEDIUM, dst, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+		dc.drawText(100, 153, Graphics.FONT_NUMBER_HOT, pwr, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 		
-		dc.drawText(51, 212, Graphics.FONT_NUMBER_MEDIUM, effect, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+		dc.drawText(51, 212, Graphics.FONT_NUMBER_MEDIUM, alt, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 		dc.drawText(151, 212, Graphics.FONT_NUMBER_MEDIUM, ascent, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);		
 		
-		dc.drawText(51, 256, Graphics.FONT_SYSTEM_SMALL, time, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);		
-		dc.drawText(150, 256, Graphics.FONT_SYSTEM_SMALL, dura, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+		dc.drawText(51, 257, Graphics.FONT_SYSTEM_SMALL, time, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);		
+		dc.drawText(150, 257, Graphics.FONT_SYSTEM_SMALL, dura, Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);		
     }
     
     function drawLabel(dc) {    	
-    	dc.drawText(1, 0, Graphics.FONT_XTINY, lb_cad, Graphics.TEXT_JUSTIFY_LEFT);    	
+    	dc.drawText(1, 0, Graphics.FONT_XTINY, lb_cad, Graphics.TEXT_JUSTIFY_LEFT);
     	dc.drawText(199, 0, Graphics.FONT_XTINY, lb_hr, Graphics.TEXT_JUSTIFY_RIGHT);
     	
     	dc.drawText(1, 61, Graphics.FONT_XTINY, lb_spd, Graphics.TEXT_JUSTIFY_LEFT);
-    	dc.drawText(199, 61, Graphics.FONT_XTINY, lb_pwr, Graphics.TEXT_JUSTIFY_RIGHT);
+    	dc.drawText(199, 61, Graphics.FONT_XTINY, lb_dst, Graphics.TEXT_JUSTIFY_RIGHT);
     	
-    	dc.drawText(1, 120, Graphics.FONT_XTINY, lb_alt, Graphics.TEXT_JUSTIFY_LEFT);
-    	dc.drawText(199, 120, Graphics.FONT_XTINY, lb_dst, Graphics.TEXT_JUSTIFY_RIGHT);
+    	dc.drawText(1, 120, Graphics.FONT_XTINY, lb_pwr, Graphics.TEXT_JUSTIFY_LEFT);
+    	dc.drawText(199, 120, Graphics.FONT_XTINY, lb_pwr, Graphics.TEXT_JUSTIFY_RIGHT);
     	
-    	dc.drawText(1, 179, Graphics.FONT_XTINY, lb_effect, Graphics.TEXT_JUSTIFY_LEFT);
+    	dc.drawText(1, 179, Graphics.FONT_XTINY, lb_alt, Graphics.TEXT_JUSTIFY_LEFT);
     	dc.drawText(199, 179, Graphics.FONT_XTINY, lb_ascent, Graphics.TEXT_JUSTIFY_RIGHT);
     	    	
     	dc.drawText(1, 236, Graphics.FONT_XTINY, lb_time, Graphics.TEXT_JUSTIFY_LEFT);
@@ -158,14 +161,33 @@ class EdgeAIOView extends Ui.DataField {
     	dc.drawLine(0, 117, 200, 117);
     	dc.drawLine(0, 176, 200, 176);
     	dc.drawLine(0, 233, 200, 233);
-    	dc.drawLine(99, 0, 99, 265);
+    	dc.drawLine(99, 0, 99, 117);
+    	dc.drawLine(99, 176, 99, 265);
     }
     
-	function onUpdate(dc) {	    
-    	dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);    	
+	function onUpdate(dc) {
+		if (getBackgroundColor() == Graphics.COLOR_BLACK) {
+            dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
+        } else {
+            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
+        }	
     	
 		drawData(dc);
 		drawGrid(dc);
-		drawLabel(dc);		
+		drawLabel(dc);
+	
+		if (timerState == Activity.TIMER_STATE_ON) {		
+			dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_TRANSPARENT);
+		}
+		
+		if (timerState == Activity.TIMER_STATE_STOPPED) {
+		 	dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
+		}
+	
+		if (timerState == Activity.TIMER_STATE_PAUSED) {
+			dc.setColor(Graphics.COLOR_YELLOW, Graphics.COLOR_TRANSPARENT);
+		}		
+			
+		dc.fillCircle(185, 153, 6);
 	}
 }
