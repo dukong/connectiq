@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="34" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="35" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="37" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="38" pc="268435521" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="39" pc="268435564" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="40" pc="268435607" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="41" pc="268435650" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="42" pc="268435693" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="43" pc="268435736" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="44" pc="268435779" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="45" pc="268435822" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="46" pc="268435865" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="47" pc="268435908" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="50" pc="268435952" symbol="onLayout"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="51" pc="268435956" symbol="onLayout"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="54" pc="268435960" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="55" pc="268435964" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="57" pc="268435983" symbol="fmt_time"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="60" pc="268436051" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="61" pc="268436055" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="62" pc="268436062" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="63" pc="268436072" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="64" pc="268436082" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="65" pc="268436098" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="66" pc="268436108" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="68" pc="268436160" symbol="fmt_dura"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="72" pc="268436167" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="74" pc="268436171" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="76" pc="268436190" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="78" pc="268436217" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="80" pc="268436233" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="81" pc="268436246" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="84" pc="268436279" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="85" pc="268436306" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="87" pc="268436339" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="88" pc="268436366" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="91" pc="268436399" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="92" pc="268436412" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="95" pc="268436445" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="96" pc="268436456" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="97" pc="268436469" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="101" pc="268436497" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="102" pc="268436510" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="105" pc="268436535" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="106" pc="268436548" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="109" pc="268436573" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="110" pc="268436586" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="111" pc="268436608" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="112" pc="268436625" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="114" pc="268436658" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="118" pc="268436691" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="119" pc="268436704" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="120" pc="268436726" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="121" pc="268436743" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="123" pc="268436776" symbol="compute"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="128" pc="268436810" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="129" pc="268436814" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="130" pc="268436887" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="132" pc="268436960" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="133" pc="268437033" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="135" pc="268437106" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="137" pc="268437179" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="138" pc="268437252" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="140" pc="268437325" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="141" pc="268437398" symbol="drawData"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="144" pc="268437472" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="145" pc="268437476" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="146" pc="268437534" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="148" pc="268437592" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="149" pc="268437650" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="151" pc="268437708" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="152" pc="268437766" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="154" pc="268437824" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="155" pc="268437882" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="157" pc="268437940" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="158" pc="268437998" symbol="drawLabel"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="161" pc="268438057" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="162" pc="268438061" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="163" pc="268438078" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="164" pc="268438110" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="165" pc="268438142" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="166" pc="268438174" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="167" pc="268438206" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="168" pc="268438238" symbol="drawGrid"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="171" pc="268438271" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="172" pc="268438275" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="173" pc="268438304" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="175" pc="268438347" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="178" pc="268438387" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="179" pc="268438401" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="180" pc="268438415" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="182" pc="268438429" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="183" pc="268438455" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="186" pc="268438498" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="187" pc="268438524" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="190" pc="268438567" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="191" pc="268438593" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleView.mc" lineNum="194" pc="268438636" symbol="onUpdate"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="9" pc="268438664" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="10" pc="268438668" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="14" pc="268438689" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="17" pc="268438710" symbol="setColor"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="18" pc="268438714" symbol="setColor"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="21" pc="268438725" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="22" pc="268438729" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleBackground.mc" lineNum="23" pc="268438761" symbol="draw"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="5" pc="268438774" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="6" pc="268438778" symbol="initialize"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="10" pc="268438797" symbol="onStart"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="14" pc="268438802" symbol="onStop"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="18" pc="268438807" symbol="getInitialView"/>
+<entry filename="/Users/mulin/workdisk/garmin/EdgeSimple/source/EdgeSimpleApp.mc" lineNum="19" pc="268438811" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="30" pc="268438849" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268438853" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268438877" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268439040" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268439065" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268439117" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268439163" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268439326" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268439351" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268439403" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268439449" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268439487" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="54" pc="268439491" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="55" pc="268439515" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="56" pc="268439648" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="59" pc="268439781" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="68" pc="268439819" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="70" pc="268439823" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="71" pc="268439847" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="72" pc="268439980" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="75" pc="268440113" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="84" pc="268440151" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="86" pc="268440155" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="87" pc="268440179" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="88" pc="268440312" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="91" pc="268440445" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="100" pc="268440483" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="102" pc="268440487" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="103" pc="268440511" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="104" pc="268440644" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="107" pc="268440777" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="37" symbol="cad"/>
+<entry field="true" id="41" symbol="effect"/>
+<entry field="true" id="27" symbol="str_time"/>
+<entry id="57" method="true" symbol="drawLabel"/>
+<entry field="true" id="47" symbol="lb_dst"/>
+<entry field="true" id="43" symbol="lb_alt"/>
+<entry field="true" id="8389814" symbol="timerState"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="31" symbol="dura"/>
+<entry id="15" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="56" method="true" symbol="drawData"/>
+<entry field="true" id="44" symbol="lb_tem"/>
+<entry field="true" id="26" symbol="str_pwr"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="17" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="48" symbol="lb_pwr"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="39" symbol="ascent"/>
+<entry id="55" method="true" symbol="fmt_dura"/>
+<entry field="true" id="21" symbol="str_spd"/>
+<entry id="8388745" symbol="totalAscent"/>
+<entry id="8389130" symbol="mColor"/>
+<entry field="true" id="50" symbol="lb_dura"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry field="true" id="46" symbol="lb_spd"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="42" symbol="lb_hr"/>
+<entry field="true" id="19" symbol="str_dura"/>
+<entry field="true" id="24" symbol="str_hr"/>
+<entry field="true" id="53" symbol="lb_effect"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="29" symbol="str_cad"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="8388719" symbol="dst"/>
+<entry field="true" id="33" symbol="alt"/>
+<entry field="true" id="45" symbol="lb_cad"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="40" symbol="descent"/>
+<entry id="10" object="true" symbol="EdgeSimpleApp"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="16" method="true" symbol="TopRightLayout"/>
+<entry id="8388747" symbol="currentHeartRate"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="34" symbol="tem"/>
+<entry field="true" id="52" symbol="lb_descent"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="51" symbol="lb_ascent"/>
+<entry field="true" id="25" symbol="str_ascent"/>
+<entry field="true" id="38" symbol="pwr"/>
+<entry field="true" id="32" symbol="time"/>
+<entry id="8388746" symbol="totalDescent"/>
+<entry field="true" id="23" symbol="str_effect"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="30" symbol="str_descent"/>
+<entry id="18" method="true" symbol="BottomRightLayout"/>
+<entry id="58" method="true" symbol="drawGrid"/>
+<entry id="8" object="true" symbol="EdgeSimpleView"/>
+<entry field="true" id="35" symbol="spd"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="54" method="true" symbol="fmt_time"/>
+<entry field="true" id="36" symbol="hr"/>
+<entry field="true" id="49" symbol="lb_time"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="22" symbol="str_dst"/>
+<entry field="true" id="20" symbol="str_alt"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436050" name="now" stackId="1" startPc="268435964"/>
+<entry endPc="268436157" name="hour" stackId="3" startPc="268436062"/>
+<entry endPc="268436157" name="min" stackId="4" startPc="268436062"/>
+<entry endPc="268436157" name="sec" stackId="5" startPc="268436062"/>
+<entry endPc="268436157" name="seconds" stackId="2" startPc="268436062"/>
+<entry endPc="268438709" name="dictionary" stackId="1" startPc="268438668"/>
+<entry endPc="268439486" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438853"/>
+<entry endPc="268439486" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268438853"/>
+<entry endPc="268439486" name="rez_cmp_local_custom_drawable_H1NEYIG0ZT2XBJOIVKU4" stackId="2" startPc="268438853"/>
+<entry endPc="268439486" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268438853"/>
+<entry endPc="268439486" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268438853"/>
+<entry endPc="268439818" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439491"/>
+<entry endPc="268439818" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439491"/>
+<entry endPc="268439818" name="rez_cmp_local_custom_drawable_B8RXRALMDO5T2XBRXVC8" stackId="2" startPc="268439491"/>
+<entry endPc="268440150" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439823"/>
+<entry endPc="268440150" name="rez_cmp_local_custom_drawable_JIE3R0XKLIY894E19TA6" stackId="2" startPc="268439823"/>
+<entry endPc="268440150" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439823"/>
+<entry endPc="268440482" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268440155"/>
+<entry endPc="268440482" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268440155"/>
+<entry endPc="268440482" name="rez_cmp_local_custom_drawable_UU1YJVBQPLM50K1WVBF2" stackId="2" startPc="268440155"/>
+<entry endPc="268440814" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268440487"/>
+<entry endPc="268440814" name="rez_cmp_local_custom_drawable_BB0KSUD6D4DNM6IWCBAT" stackId="2" startPc="268440487"/>
+<entry endPc="268440814" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268440487"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="EdgeSimpleView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="EdgeSimpleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_time" parent="EdgeSimpleView">
+<documentation/>
+</functionEntry>
+<functionEntry name="fmt_dura" parent="EdgeSimpleView">
+<param id="elapsedTime"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="EdgeSimpleView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawData" parent="EdgeSimpleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawLabel" parent="EdgeSimpleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawGrid" parent="EdgeSimpleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="EdgeSimpleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="EdgeSimpleApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="EdgeSimpleApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="EdgeSimpleApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="EdgeSimpleApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
